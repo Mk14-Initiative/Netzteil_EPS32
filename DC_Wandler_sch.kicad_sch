@@ -7574,7 +7574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Typ" ""
+		(property "Typ" "Nexperia TL431IDBZR"
 			(at 256.54 149.86 90)
 			(effects
 				(font
