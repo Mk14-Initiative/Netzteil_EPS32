@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "54ba880c-6f45-4384-abe4-52c776779a10")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 27.94 53.34)
+		(size 33.02 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "09209532-6ee6-4653-b225-27f48971e47a")
+		(property "Sheetname" "DC Wandler"
+			(at 27.94 52.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DC_Wandler_sch.kicad_sch"
+			(at 27.94 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Steckdosenleiste"
+				(path "/54ba880c-6f45-4384-abe4-52c776779a10"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 25.4)
+		(size 33.02 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "842198c2-21b4-434c-b05d-efb50c199d16")
+		(property "Sheetname" "Primärversorgung_AC"
+			(at 27.94 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Primärversorgung_AC_sch.kicad_sch"
+			(at 27.94 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Steckdosenleiste"
+				(path "/54ba880c-6f45-4384-abe4-52c776779a10"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
