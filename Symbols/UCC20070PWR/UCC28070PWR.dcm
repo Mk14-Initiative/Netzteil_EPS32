@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UCC28070PWR
+D Two-Phase Interleaved CCM PFC Controller
+K
+F http://www.ti.com/lit/gpn/ucc28070
+$ENDCMP
+#
+#End Doc Library
