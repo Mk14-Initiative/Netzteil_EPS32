@@ -643,62 +643,62 @@
 		)
 	)
 	(junction
-		(at 68.58 41.91)
+		(at 105.41 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "03d6fb74-1f78-4b42-89d1-1fb3799d322d")
 	)
 	(junction
-		(at 81.28 53.34)
+		(at 118.11 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "319fb516-3a81-43b2-9e4e-d2a32c186946")
 	)
 	(junction
-		(at 68.58 53.34)
+		(at 105.41 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6879166b-b681-4088-bd10-2e00584467f1")
 	)
 	(junction
-		(at 110.49 39.37)
+		(at 147.32 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d29753e1-7ef5-4e4d-ae28-a650d7af45f3")
 	)
 	(junction
-		(at 101.6 39.37)
+		(at 138.43 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d2b051b5-9ca5-4c34-b966-0ae9b783d25a")
 	)
 	(junction
-		(at 81.28 41.91)
+		(at 118.11 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d6d77307-c9e9-4ddd-9d5b-b5319daf8afe")
 	)
 	(junction
-		(at 110.49 48.26)
+		(at 147.32 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d7c6737b-d9f1-479c-a061-ef1be1d2a759")
 	)
 	(junction
-		(at 90.17 53.34)
+		(at 127 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dac9f52b-0b53-410b-8131-1806276960b5")
 	)
 	(junction
-		(at 90.17 39.37)
+		(at 127 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f0a9d1e1-fa0c-4686-b414-93f2784f4b44")
 	)
 	(wire
 		(pts
-			(xy 68.58 41.91) (xy 81.28 41.91)
+			(xy 105.41 85.09) (xy 118.11 85.09)
 		)
 		(stroke
 			(width 0)
@@ -708,7 +708,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 53.34) (xy 68.58 53.34)
+			(xy 118.11 96.52) (xy 105.41 96.52)
 		)
 		(stroke
 			(width 0)
@@ -718,7 +718,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 41.91) (xy 87.63 48.26)
+			(xy 124.46 85.09) (xy 124.46 91.44)
 		)
 		(stroke
 			(width 0)
@@ -728,7 +728,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 39.37) (xy 101.6 39.37)
+			(xy 127 82.55) (xy 138.43 82.55)
 		)
 		(stroke
 			(width 0)
@@ -738,7 +738,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 46.99) (xy 101.6 53.34)
+			(xy 138.43 90.17) (xy 138.43 96.52)
 		)
 		(stroke
 			(width 0)
@@ -748,7 +748,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 39.37) (xy 110.49 39.37)
+			(xy 138.43 82.55) (xy 147.32 82.55)
 		)
 		(stroke
 			(width 0)
@@ -758,7 +758,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 46.99) (xy 123.19 48.26)
+			(xy 160.02 90.17) (xy 160.02 91.44)
 		)
 		(stroke
 			(width 0)
@@ -768,7 +768,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 53.34) (xy 81.28 53.34)
+			(xy 127 96.52) (xy 118.11 96.52)
 		)
 		(stroke
 			(width 0)
@@ -778,7 +778,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 48.26) (xy 123.19 48.26)
+			(xy 147.32 91.44) (xy 160.02 91.44)
 		)
 		(stroke
 			(width 0)
@@ -788,7 +788,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 46.99) (xy 90.17 53.34)
+			(xy 127 90.17) (xy 127 96.52)
 		)
 		(stroke
 			(width 0)
@@ -798,7 +798,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 49.53) (xy 81.28 53.34)
+			(xy 118.11 92.71) (xy 118.11 96.52)
 		)
 		(stroke
 			(width 0)
@@ -808,7 +808,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 39.37) (xy 64.77 39.37)
+			(xy 99.06 82.55) (xy 101.6 82.55)
 		)
 		(stroke
 			(width 0)
@@ -818,7 +818,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 49.53) (xy 68.58 53.34)
+			(xy 105.41 92.71) (xy 105.41 96.52)
 		)
 		(stroke
 			(width 0)
@@ -828,7 +828,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 53.34) (xy 90.17 53.34)
+			(xy 138.43 96.52) (xy 127 96.52)
 		)
 		(stroke
 			(width 0)
@@ -838,7 +838,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 41.91) (xy 87.63 41.91)
+			(xy 118.11 85.09) (xy 124.46 85.09)
 		)
 		(stroke
 			(width 0)
@@ -848,7 +848,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 53.34) (xy 68.58 53.34)
+			(xy 99.06 96.52) (xy 105.41 96.52)
 		)
 		(stroke
 			(width 0)
@@ -858,7 +858,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 48.26) (xy 110.49 48.26)
+			(xy 124.46 91.44) (xy 147.32 91.44)
 		)
 		(stroke
 			(width 0)
@@ -868,7 +868,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 41.91) (xy 68.58 41.91)
+			(xy 99.06 85.09) (xy 105.41 85.09)
 		)
 		(stroke
 			(width 0)
@@ -878,7 +878,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 39.37) (xy 90.17 39.37)
+			(xy 109.22 82.55) (xy 127 82.55)
 		)
 		(stroke
 			(width 0)
@@ -888,7 +888,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 39.37) (xy 123.19 39.37)
+			(xy 147.32 82.55) (xy 160.02 82.55)
 		)
 		(stroke
 			(width 0)
@@ -898,7 +898,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 48.26) (xy 110.49 46.99)
+			(xy 147.32 91.44) (xy 147.32 90.17)
 		)
 		(stroke
 			(width 0)
@@ -908,7 +908,7 @@
 	)
 	(global_label "PE"
 		(shape input)
-		(at 101.6 53.34 0)
+		(at 138.43 96.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -918,7 +918,7 @@
 		)
 		(uuid "0b88ece0-49c3-471d-9588-fee7a8fa7ba4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 107.0042 53.34 0)
+			(at 143.8342 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -930,7 +930,7 @@
 	)
 	(global_label "N"
 		(shape input)
-		(at 123.19 48.26 0)
+		(at 160.02 91.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -940,7 +940,7 @@
 		)
 		(uuid "23348d51-8949-4646-8f27-3b70d93969ed")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127.5057 48.26 0)
+			(at 164.3357 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -952,7 +952,7 @@
 	)
 	(global_label "L"
 		(shape input)
-		(at 123.19 39.37 0)
+		(at 160.02 82.55 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -962,7 +962,7 @@
 		)
 		(uuid "67f06e72-c35c-4108-900e-bcb55a482e6f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127.2033 39.37 0)
+			(at 164.0333 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -974,7 +974,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 123.19 43.18 0)
+		(at 160.02 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -983,7 +983,7 @@
 		(fields_autoplaced yes)
 		(uuid "3dd584b8-4f8f-415c-ba2e-25c43119b41f")
 		(property "Reference" "R4"
-			(at 125.73 41.9099 0)
+			(at 162.56 85.0899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -992,7 +992,7 @@
 			)
 		)
 		(property "Value" "MOV"
-			(at 125.73 44.4499 0)
+			(at 162.56 87.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1001,7 +1001,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 121.412 43.18 90)
+			(at 158.242 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1010,7 +1010,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 123.19 43.18 0)
+			(at 160.02 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1019,7 +1019,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 123.19 43.18 0)
+			(at 160.02 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1028,7 +1028,7 @@
 			)
 		)
 		(property "Type" "B72220S2421K101"
-			(at 123.19 43.18 0)
+			(at 160.02 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1053,7 +1053,7 @@
 	)
 	(symbol
 		(lib_id "Device:Thermistor_NTC")
-		(at 68.58 39.37 90)
+		(at 105.41 82.55 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1062,7 +1062,7 @@
 		(fields_autoplaced yes)
 		(uuid "50c8fc66-4e20-4752-8c00-73ca54175c68")
 		(property "Reference" "TH1"
-			(at 68.8975 33.02 90)
+			(at 105.7275 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1070,7 +1070,7 @@
 			)
 		)
 		(property "Value" "Thermistor_NTC"
-			(at 68.8975 35.56 90)
+			(at 105.7275 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1078,7 +1078,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 67.31 39.37 0)
+			(at 104.14 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1087,7 +1087,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 67.31 39.37 0)
+			(at 104.14 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1096,7 +1096,7 @@
 			)
 		)
 		(property "Description" "Temperature dependent resistor, negative temperature coefficient"
-			(at 68.58 39.37 0)
+			(at 105.41 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1105,7 +1105,7 @@
 			)
 		)
 		(property "Type" "EATON ICL250D30MIC"
-			(at 68.58 39.37 0)
+			(at 105.41 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1130,7 +1130,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 68.58 45.72 0)
+		(at 105.41 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1138,7 +1138,7 @@
 		(dnp no)
 		(uuid "518baa08-b038-46f1-9b95-e179ae362f1f")
 		(property "Reference" "R3"
-			(at 70.358 44.958 0)
+			(at 107.188 88.138 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1147,7 +1147,7 @@
 			)
 		)
 		(property "Value" "gdt n pe"
-			(at 70.104 47.498 0)
+			(at 106.934 90.678 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1156,7 +1156,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.802 45.72 90)
+			(at 103.632 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1165,7 +1165,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 68.58 45.72 0)
+			(at 105.41 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1174,7 +1174,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 68.58 45.72 0)
+			(at 105.41 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1183,7 +1183,7 @@
 			)
 		)
 		(property "Type" "Littelfuse CG2470L"
-			(at 68.58 45.72 0)
+			(at 105.41 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1208,7 +1208,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 81.28 45.72 0)
+		(at 118.11 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1216,7 +1216,7 @@
 		(dnp no)
 		(uuid "67968f02-251b-4824-bf33-023b567a0a7c")
 		(property "Reference" "R6"
-			(at 83.058 44.45 0)
+			(at 119.888 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1225,7 +1225,7 @@
 			)
 		)
 		(property "Value" "MOV"
-			(at 83.058 46.99 0)
+			(at 119.888 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1234,7 +1234,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 79.502 45.72 90)
+			(at 116.332 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1243,7 +1243,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 81.28 45.72 0)
+			(at 118.11 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1252,7 +1252,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 81.28 45.72 0)
+			(at 118.11 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1261,7 +1261,7 @@
 			)
 		)
 		(property "Type" "EPCOS B72220S2421K101"
-			(at 81.28 45.72 0)
+			(at 118.11 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1286,7 +1286,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 110.49 43.18 0)
+		(at 147.32 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1295,7 +1295,7 @@
 		(fields_autoplaced yes)
 		(uuid "7d3e9c86-5a6a-4ee0-8423-5ed7624dd952")
 		(property "Reference" "R1"
-			(at 113.03 41.9099 0)
+			(at 149.86 85.0899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1304,7 +1304,7 @@
 			)
 		)
 		(property "Value" "gdt l n"
-			(at 113.03 44.4499 0)
+			(at 149.86 87.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1313,7 +1313,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 108.712 43.18 90)
+			(at 145.542 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1322,7 +1322,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 110.49 43.18 0)
+			(at 147.32 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1331,7 +1331,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 110.49 43.18 0)
+			(at 147.32 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1340,7 +1340,7 @@
 			)
 		)
 		(property "Type" "Littelfuse CG2470L"
-			(at 110.49 43.18 0)
+			(at 147.32 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1365,7 +1365,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 90.17 43.18 0)
+		(at 127 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1373,7 +1373,7 @@
 		(dnp no)
 		(uuid "8cc50df3-ae85-4727-ac55-97c1de52a0a0")
 		(property "Reference" "R2"
-			(at 91.948 41.91 0)
+			(at 128.778 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1382,7 +1382,7 @@
 			)
 		)
 		(property "Value" "gdt l pe"
-			(at 90.932 44.196 0)
+			(at 127.762 87.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1391,7 +1391,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 88.392 43.18 90)
+			(at 125.222 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1400,7 +1400,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 90.17 43.18 0)
+			(at 127 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1409,7 +1409,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 90.17 43.18 0)
+			(at 127 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1418,7 +1418,7 @@
 			)
 		)
 		(property "Type" "Littelfuse CG2470L"
-			(at 90.17 43.18 0)
+			(at 127 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1443,7 +1443,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 101.6 43.18 0)
+		(at 138.43 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1451,7 +1451,7 @@
 		(dnp no)
 		(uuid "aaebb734-750d-49fe-9db9-60bdbd5fb981")
 		(property "Reference" "R5"
-			(at 103.378 41.656 0)
+			(at 140.208 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1460,7 +1460,7 @@
 			)
 		)
 		(property "Value" "MOV"
-			(at 103.378 44.958 0)
+			(at 140.208 88.138 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1469,7 +1469,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 99.822 43.18 90)
+			(at 136.652 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1478,7 +1478,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 101.6 43.18 0)
+			(at 138.43 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1487,7 +1487,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 101.6 43.18 0)
+			(at 138.43 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1496,7 +1496,7 @@
 			)
 		)
 		(property "Type" "B72220S2421K101"
-			(at 101.6 43.18 0)
+			(at 138.43 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1521,7 +1521,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 57.15 53.34 0)
+		(at 93.98 96.52 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1531,7 +1531,7 @@
 		(fields_autoplaced yes)
 		(uuid "c69f055a-5a66-46e3-be47-0d345268d4a4")
 		(property "Reference" "J2"
-			(at 57.15 46.99 0)
+			(at 93.98 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1539,7 +1539,7 @@
 			)
 		)
 		(property "Value" "PE"
-			(at 57.15 49.53 0)
+			(at 93.98 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1547,7 +1547,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 57.15 53.34 0)
+			(at 93.98 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1556,7 +1556,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 53.34 0)
+			(at 93.98 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1565,7 +1565,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 57.15 53.34 0)
+			(at 93.98 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1587,7 +1587,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 57.15 39.37 0)
+		(at 93.98 82.55 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1597,7 +1597,7 @@
 		(fields_autoplaced yes)
 		(uuid "dec00e00-5a97-4338-9aa8-bb6c632beacb")
 		(property "Reference" "J1"
-			(at 57.15 33.02 0)
+			(at 93.98 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1605,7 +1605,7 @@
 			)
 		)
 		(property "Value" "Con 1"
-			(at 57.15 35.56 0)
+			(at 93.98 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1613,7 +1613,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 57.15 39.37 0)
+			(at 93.98 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1622,7 +1622,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 39.37 0)
+			(at 93.98 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1631,7 +1631,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 57.15 39.37 0)
+			(at 93.98 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1640,7 +1640,7 @@
 			)
 		)
 		(property "Type" "Schneider Electric R9F23116"
-			(at 57.15 39.37 0)
+			(at 93.98 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
