@@ -89,6 +89,48 @@
 			)
 		)
 	)
+	(sheet
+		(at 27.94 78.74)
+		(size 33.02 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a2713313-161a-4307-8627-556664dfa926")
+		(property "Sheetname" "ESP32_Powersupply"
+			(at 27.94 78.0284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32_Powersupply.kicad_sch"
+			(at 27.94 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Steckdosenleiste"
+				(path "/54ba880c-6f45-4384-abe4-52c776779a10"
+					(page "4")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

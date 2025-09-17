@@ -629,6 +629,10 @@
     [
       "09209532-6ee6-4653-b225-27f48971e47a",
       "DC Wandler"
+    ],
+    [
+      "a2713313-161a-4307-8627-556664dfa926",
+      "ESP32_Powersupply"
     ]
   ],
   "text_variables": {}
